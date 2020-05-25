@@ -1,0 +1,22 @@
+{
+  "name": "learning-responsive",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "scss": "node-sass --watch assets/scss -o assets/css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ThiryS/learning-responsive.git"
+  },
+  "author": "Simon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ThiryS/learning-responsive/issues"
+  },
+  "homepage": "https://github.com/ThiryS/learning-responsive#readme",
+  "dependencies": {
+    "node-sass": "^4.14.1"
+  }
+}
